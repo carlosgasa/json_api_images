@@ -23,8 +23,19 @@
       "motivo":"Creador de la app"
     },
     {
-      "nombre":"Carlos Galindo",
-      "motivo":"Creador de la app"
+      "nombre":"El EO",
+      "motivo":"Siempre esta en el chat <3"
+    }
+  ],
+  
+  "colaboradores_plus":[
+    {
+      "nombre":"El Ayuoki",
+      "motivo":"Donador #1"
+    },
+    {
+      "nombre":"El Hee Hee",
+      "motivo":"Moderador fiel"
     }
   ]
 }

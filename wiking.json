@@ -41,7 +41,7 @@
      {
       "nombre":"Hans",
       "motivo":"Diseño y edición"
-    },
+    }
   ],
   
   "colaboradores_plus":[
@@ -64,6 +64,10 @@
     {
       "nombre":"Vani",
       "motivo":"Gamer"
+    },
+     {
+      "nombre":"Sol",
+      "motivo":"La mejor mod"
     },
     {
       "nombre":"Gisselle",

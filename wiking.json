@@ -21,22 +21,18 @@
     {
       "nombre":"Carlos Galindo",
       "motivo":"Creador de la app"
-    },
-    {
       "nombre":"Tu nombre va aqui",
-      "motivo":"a todos los mods favor de pasar su info para colocarla aquí"
+      "motivo":"a todos los mods favor de pasar su info para colocarla aqui"
     }
   ],
   
   "colaboradores_plus":[
     {
-      "nombre":"Pandita
-",
+      "nombre":"Pandita",
       "motivo":"Donador #1"
     },
     {
-      "nombre":"Abril Anuma
-",
+      "nombre":"Abril Anuma",
       "motivo":"Moderadora fiel"
     }
   ]
